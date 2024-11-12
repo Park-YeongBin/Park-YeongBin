@@ -1,4 +1,4 @@
-## Hi there 👋
+## 동물 농장
 
 <!--
 **Park-YeongBin/Park-YeongBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+동물 링크
+https://www.gitanimals.org/en_US/mypage?type=farm-type
+
 -->
 
 
